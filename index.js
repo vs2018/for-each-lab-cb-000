@@ -7,8 +7,3 @@ function iterativeLog (array) {
       console.log(`${index}: ${element}`;
 
 });
-
-
-evens.forEach(even => {
-  console.log(`${even} is not odd!`);
-});
