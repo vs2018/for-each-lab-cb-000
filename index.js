@@ -20,7 +20,7 @@ function iterate (callback) {
 return array
 };
 
-function iterate (callback) {
+function doToArray (callback) {
 
   array = [1,2,3];
 
