@@ -22,8 +22,6 @@ return array
 
 function doToArray (array, callback) {
 
-  array = [1,2,3];
-
     array.forEach(element => {
       callback(element)
 
