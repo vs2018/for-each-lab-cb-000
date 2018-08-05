@@ -13,7 +13,7 @@ function iterate (callback) {
 
   array = [1,2,3];
 
-    array.forEach((element, index) => {
+    array.forEach((element) => {
       callback(element)
 
 })
