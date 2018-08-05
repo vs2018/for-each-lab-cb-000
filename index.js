@@ -2,4 +2,6 @@
 //   array.forEach(element => console.log(`${index}: ${element}`)
 // }
 
-function(
+function iterativeLog (array) {
+  
+}
