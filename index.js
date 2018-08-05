@@ -9,10 +9,9 @@ function iterativeLog (array) {
 })
 };
 
-function iterate (array) {
+function iterate (callback) {
     array.forEach((element, index) => {
       console.log(`${index}: ${element}`);
 
 })
 };
-
