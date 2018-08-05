@@ -11,7 +11,7 @@ function iterativeLog (array) {
 
 function iterate (callback) {
 
-  array = [];
+  array = [1,2,3];
   
     array.forEach((element, index) => {
       console.log(`${index}: ${element}`);
